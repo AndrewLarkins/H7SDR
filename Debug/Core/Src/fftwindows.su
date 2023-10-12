@@ -1,0 +1,5 @@
+../Core/Src/fftwindows.c:10:6:bartlett_f32	0	static
+../Core/Src/fftwindows.c:18:6:blackman_f32	64	static
+../Core/Src/fftwindows.c:26:6:hamming_f32	40	static
+../Core/Src/fftwindows.c:34:6:vonHann_f32	40	static
+../Core/Src/fftwindows.c:63:6:kaiser_f32	12	static
